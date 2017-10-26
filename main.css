@@ -1,0 +1,186 @@
+.titu{
+    display: inline-block;
+    background: #2c3e50;
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    z-index: 1030;
+
+}
+.h4{
+	border: none;
+	display: inline-block;
+	position: relative;
+	left: 60%;
+    top: 30px;
+    margin-right: 15px;
+    color: #fff;
+    line-height: 20px;
+    background-color: transparent;
+}
+.h1{
+	display: inline-block;
+    color: #fff;
+    position: relative;
+    left: 90px;
+    top: 30px;
+    border: none;
+    line-height: 20px;
+    background-color: transparent;
+
+}
+#pro{
+	position: relative;
+    left: 40%;
+    top: 10%;
+    width: 256px;
+    height: 256px;
+}
+.profi{
+	 background: #18bc9c;
+	 height: 792px;
+}
+#h1{
+	text-align: center;
+    position: relative;
+    bottom: 400px;
+    font-size: 70px;
+}
+hr{
+	position: relative;
+	border: 3px solid;
+	bottom: 350px;
+}
+hr.star-light::after{
+    font-family: FontAwesome;
+    font-size: 2em;
+    position: relative;
+    bottom: 400px;
+   
+}
+i{
+	position: relative;
+	bottom: 370px;
+    left: 690px;
+}
+span{
+    position: relative;
+    bottom: 250px;
+    left: 250px;
+    font-size: 35px;
+}
+.porfo{
+	text-align: center;
+	font-size: 30px;      /*ul li con a en nav 
+	                          */
+}
+#porfolio{
+	position: relative;
+    top: 0px;
+}
+#star{
+    position: relative;
+    top: -27px;
+    /* bottom: 0px; */
+    left: 650px;
+}
+img{
+	display: inline-block;
+	width: 380px;
+	height: 253px;
+    margin-right: 40px;
+    margin-top: 30px;
+}
+.about{
+	background: #18bc9c; 
+    width: 1349px;
+    margin-left: -8px;
+    height: 600px;
+}
+.text-iz{
+	position: relative;
+    left: 24%;
+    bottom: 600px;
+}
+.iz{
+      width: 20%;
+    font-size: 150%;
+}
+.text-de{
+	text-align: right;
+    position: relative;
+    left: 60%;
+    bottom: 870px;
+}
+.de{
+	width: 20%;
+    font-size: 160%;
+}
+.text-aba{
+	position: relative;
+    bottom: 780px;
+}
+#linea1{
+    width: 100px;
+    bottom: 560px;
+    right: 7%;
+}
+#linea2{
+	width: 100px;
+	bottom: 574px;
+    left: 7%;
+}
+#estre{
+	bottom: 603px;
+    left: 655px;
+}
+.about{
+	font-size: 40px;
+    /* position: relative; */
+    /* padding-left: 30%; */
+    text-align: center;
+    padding-top: 100px;
+}
+#contact{
+	    margin-top: -600px;
+}
+.cotact{
+	text-align: center;
+    font-size: 50px;
+}
+#hr{
+	width: 100px;
+	top: 2px;
+    left: 85px;
+}
+#linea{
+	width: 100px;
+	top: 16px;
+    right: 90px;
+}
+.form{
+	padding-top: 60px;
+    padding-left: 30%;
+}
+input{
+	font-size: 20px;
+	border: none;
+    line-height: 20px;
+    background-color: transparent;
+}
+.color{
+	background: #18bc9c;
+    border: none;
+    font-size: 30px;
+    position: relative;
+    display: inline-block;
+    left: 30%;
+    top: 100px;
+    border-radius: 4px;
+    width: 100px;
+    height: 50px;
+    color: #fff;
+}
