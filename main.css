@@ -48,6 +48,28 @@
     position: relative;
     bottom: 400px;
     font-size: 70px;
+    color: white;
+}
+.star-light{
+    width: 100px;
+    top: -440px;
+    right: 70px;
+    color: white;
+
+}
+.estrella{
+    width: 100px;
+    top: -455px;
+    left: 80px;
+    color: white;
+
+}
+#fa{
+    bottom: 490px;
+    left: 660px;
+    /* right: -50px; */
+    /* right: 20px; */
+    color: white;
 }
 hr{
 	position: relative;
@@ -68,9 +90,10 @@ i{
 }
 span{
     position: relative;
-    bottom: 250px;
+    bottom: 430px;
     left: 250px;
     font-size: 35px;
+    color: white;
 }
 .porfo{
 	text-align: center;
@@ -80,6 +103,8 @@ span{
 #porfolio{
 	position: relative;
     top: 0px;
+    width: 100px;
+
 }
 #star{
     position: relative;
